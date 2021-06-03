@@ -12,7 +12,9 @@ The Python modules are documented in the [Python section](./Python/). See also t
 
 
 ## More information
-Links to the pulblicatons and at Zenodo will be added when available.
+Cite this repository: [![DOI](https://zenodo.org/badge/368164449.svg)](https://zenodo.org/badge/latestdoi/368164449)
+
+Links to the pulblicatons will be added when available.
 
 ## Licensing
 
